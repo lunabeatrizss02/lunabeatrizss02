@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! Eu sou a Luna Beatriz 👋
 
-<!--
-**lunabeatrizss02/lunabeatrizss02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNA.
 
-Here are some ideas to get you started:
+💻 Atualmente estou aprendendo e desenvolvendo minhas habilidades em programação e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 📚 Estudando lógica de programação e Python.
+- 🛠️ Desenvolvendo projetos acadêmicos e pessoais.
+- 🤖 Interesse em Inteligência Artificial e desenvolvimento de software.
+- 🎯 Em busca de oportunidades para aprender e crescer na área de tecnologia.
+
+### 💡 Áreas de interesse
+- Desenvolvimento de Software
+- Desenvolvimento Web
+- Inteligência Artificial
+- UX/UI Design
+
+### 🧰 Tecnologias e ferramentas
+- Python (básico)
+- Git e GitHub (em aprendizado)
+
+### 📫 Contato
+- LinkedIn: [adicione seu link]
+- E-mail: lunabeatrizss02@gmail.com
+
+---
+✨ Sempre aprendendo e buscando novos desafios!
