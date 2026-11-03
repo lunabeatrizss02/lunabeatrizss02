@@ -16,11 +16,15 @@
 - Inteligência Artificial
 - UX/UI Design
 
+### 📂 Projetos e documentação
+- 💰 [GerencIA — Gerenciador Financeiro Inteligente](https://luna-beatriz.gitbook.io/gerencia) — Sistema de gerenciamento financeiro com inteligência artificial.
+- 🏥 [ClinicHub — Agendamento Médico](https://mickael-3.gitbook.io/clinichub/documentation/sobre-o-projeto/publish-your-docs) - Site para agendamento de consultas médicas, com foco em acessibilidade, usabilidade e inclusão digital, especialmente para pessoas idosas.
+
 ### 🧰 Tecnologias e ferramentas
 - Python (básico)
 
 ### 📫 Contato
-- LinkedIn: www.linkedin.com/in/luna-sidonio-28877034b
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/luna-sidonio-28877034b)
 - E-mail: lunabeatrizss02@gmail.com
 
 ---
