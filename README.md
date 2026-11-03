@@ -18,10 +18,9 @@
 
 ### 🧰 Tecnologias e ferramentas
 - Python (básico)
-- Git e GitHub (em aprendizado)
 
 ### 📫 Contato
-- LinkedIn: [adicione seu link]
+- LinkedIn: www.linkedin.com/in/luna-sidonio-28877034b
 - E-mail: lunabeatrizss02@gmail.com
 
 ---
